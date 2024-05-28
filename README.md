@@ -1,3 +1,14 @@
+# Mô tả
+Web CODE là website sử dụng để code html, css, js trực tuyến (không cần tải phần mềm về) và có thể chia sẻ giao diện cho mọi người. Web được lấy ý tưởng từ web codepen. Web có khả năng tạo code, lưu code, tạo collection, tạo project, cập nhật thông tin người dùng, ....
+- FE: web sử dụng Angular để code.
+- BE: web sử dụng nodejs với framework express.
+- Database: sử dụng mysql với sequelize. Database được chúng tôi thiết kế theo chuẩn BCNF.
+- 
+# Công việc của tôi trong dự án
+- Thiết kế database.
+- Xây basecode và code BE.
+- Xây dựng logic, call API FE.
+
 # Hướng dẫn 
 
 ## 1. Hướng dẫn Deploy (trên hệ thống fall2324g3w5)
